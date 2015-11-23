@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/internal_impl-23.1.0-21ff0f36ddf79bbe446a655a539a76fd36778645.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/classes-8884bcb5c3f69bbfafb23eddb38094dbc798efa8.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/classes-02797b35f835e2b463910490684852336135f873.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/classes-807788ec1cfe69c6aa5f2c9d5b58f1137c29659e.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/classes-57c45c190b95a8f8000cbd8c474c45bcfc1f6313.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/classes-70cc94ab8b43047cdb4801b9d22699d11878d116.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/classes-2173567bf9e3c9431f2d2d9614d6bfd2c57d29f8.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/internal_impl-23.1.0-2ac48c5b6a12101099c79ff641cb1f8d0b758972.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/internal_impl-23.1.0-c744edcc8d0dcfe105b3f666087dc36b950c43f3.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/classes-8bdd8a2e8e0452587d9ecd388d687069dcedb474.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/classes-7f453ecdc6a3307a85e0cc68e75fce33be90dc25.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/classes-11fd0f65320916462464b329ecbfdc8c5e474237.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/classes-737717cd87f949c1c60bcb610c1babca506345b7.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/classes-b4a8eb393798f3adc59d22858b46658ce126e837.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/classes-4649abaef273691b1ba8535dee0a27dd6d5e2344.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/classes-515658ed5450eb81c7d901a2249d51011fea8525.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="983e2f375504bc04def18e709c35192afe92e65f">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/classes-25a700aa19ae1310aa79c22691d94550194d435e.jar" />
+    </item>
+    <item
+        jar="/home/hojin/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Wearable/build/intermediates/pre-dexed/release/support-annotations-23.1.0-254d68f0196e621e83c3bf1beffc4729e58c28c7.jar" />
+    </item>
+    <item
+        jar="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="/home/hojin/AndroidStudioProjects/KeepMyPhone/Application/build/intermediates/pre-dexed/release/internal_impl-23.1.0-04e2f9d977fd70278f3b2f0dce5cc2ea9c4e676c.jar" />
+    </item>
+
+</items>
